@@ -4,13 +4,13 @@ Bu proje, **TURGUTLU TEKNOLOJİ GÜNLERİ - 5 Görüntü İşleme ile Akıllı �
 
 ## 🚩 #ttg5hackathon2025 
 
-## ⚙️ Backend Yapılandırması
+## ⚙️ Backend Yapılandırılması
 backend/ped_app dizinine geçerek 
 terminalde pip install -r requirements.txt  (komutu çalıştırılmalıdır) 
 daha sonra yine yanı dizinde python manage.py runserver yaparak backend tarafı çalıştırılmalıdır 
 
 
- ------- Frontend Yapılandırılaması ----- 
+ ------- Frontend Yapılandırılması ----- 
  Node.js npm yüklü olmalı , andorid stuido indirilip emülator desteği sağlanmalıdır 
 frontend/pedapp dizinine geçerek 
 terminalde npm install komutu çalıştırılarak gerekli bağımlılıkların yüklenmesi sağlanmalıdır
