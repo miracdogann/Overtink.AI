@@ -16,7 +16,10 @@ frontend/pedapp dizinine geçerek
 terminalde npm install komutu çalıştırılarak gerekli bağımlılıkların yüklenmesi sağlanmalıdır
 daha sonra npx expo start diyerek proje çalıştırılabilir 
 
-
+Ayrıca bu projede emeği geçen ekip arkadaşlarıma teşşekür ederim 
+Miraç Doğan (Yazılım Mühendisliği)
+Yağız Belyan Çelik (Yazılım Mühendisliği)
+Mert Sezginer (Mekatronik Mühendisliği)
 
 ## 📊 Karmaşıklık Analizi (Big-O Notasyonu)
 
