@@ -1,8 +1,10 @@
-Bu Proje  TURGUTLU TEKNOLOJİ GÜNLERİ - 5 Görüntü İşleme ile Akıllı Üretim: Medikal Ürün Kalite Kontrolü Hackathonu  için geliştirildi 
+# Medikal Ürün Kalite Kontrolü Hackathon Projesi
 
-#ttg5hackathon2025 
+Bu proje, **TURGUTLU TEKNOLOJİ GÜNLERİ - 5 Görüntü İşleme ile Akıllı Üretim: Medikal Ürün Kalite Kontrolü Hackathonu** için geliştirilmiştir.
 
- Backend Yapılandırması ------
+## 🚩 #ttg5hackathon2025 
+
+## ⚙️ Backend Yapılandırması
 backend/ped_app dizinine geçerek 
 terminalde pip install -r requirements.txt  (komutu çalıştırılmalıdır) 
 daha sonra yine yanı dizinde python manage.py runserver yaparak backend tarafı çalıştırılmalıdır 
